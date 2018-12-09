@@ -1,29 +1,32 @@
-Name: Vaibhav Agasti
-Enrollment ID: BT16CSE019
+# Multi-Layer-Perceptron
+A MLP neural network with GUI implemented in Java.
 
-The project is done in Java programming language using the IntelliJ Idea Editor.
-The src folder contais the following files:
-1. FileInput.java
-2. Graph.java
-3. GUI.java
-4. GUI.form
-5. Layer.java
-6. MultiLayerPerceptron.java
-7. Neuron.java
-8. TrainingSet.java
-9. winequality-red.txt
+## Basic Information
+1. The project is done in Java programming language using the IntelliJ Idea Editor.
+2. The src folder contais the following files:
+   i. FileInput.java
+   ii. Graph.java
+   iii. GUI.java 
+   iv. GUI.form
+   v. Layer.java
+   vi. MultiLayerPerceptron.java
+   vii. Neuron.java
+   viii. TrainingSet.java
+   ix. winequality-red.txt
 
-To run the project, the GUI.java file should be compiled and exectued.
-The GUI prompts for 11 inputs. 
-It also contains two buttons namely, Train and Predict.
-The Train button trains the neural network with the training data in winequality-red.txt. 
-(Note: The path of this file may change on different machines and should be set accordingly)
-Error plot for training dataset is Epoch vs Error is generated after the train button is pressed 
-(Note: Kindly keep the graph window open since its generation throughout the program run)
-The predict button predicts the quality of the wine based on inputs specified in the input text fields.
+## Execution
+1. Download the project.
+2. To run the project, the GUI.java file should be compiled and exectued.
+3. The GUI prompts for 11 inputs. 
+4. It also contains two buttons namely, Train and Predict.
+5. The Train button trains the neural network with the training data in winequality-red.txt. 
+   (Note: The path of this file may change on different machines and should be set accordingly)
+6. Error plot for training dataset is Epoch vs Error is generated after the train button is pressed 
+   (Note: Kindly keep the graph window open since its generation throughout the program run)
+7. The predict button predicts the quality of the wine based on inputs specified in the input text fields.
 
 
-Dataset:
+## Dataset:
 
 1. Title: Wine Quality 
 
@@ -85,3 +88,6 @@ Dataset:
    12 - quality (score between 0 and 10)
 
 8. Missing Attribute Values: None
+
+## Developer
+Vaibhav Agasti
