@@ -3,16 +3,16 @@ A MLP neural network with GUI implemented in Java.
 
 ## Basic Information
 1. The project is done in Java programming language using the IntelliJ Idea Editor.
-2. The src folder contais the following files:
+2. The src folder contais the following files: <br />
    i) FileInput.java  <br />
-   ii) Graph.java
-   iii) GUI.java 
-   iv) GUI.form
-   v) Layer.java
-   vi) MultiLayerPerceptron.java
-   vii) Neuron.java
-   viii) TrainingSet.java
-   ix) winequality-red.txt
+   ii) Graph.java <br />
+   iii) GUI.java  <br />
+   iv) GUI.form  <br />
+   v) Layer.java  <br />
+   vi) MultiLayerPerceptron.java  <br />
+   vii) Neuron.java  <br />
+   viii) TrainingSet.java  <br />
+   ix) winequality-red.txt  
 
 ## Execution
 1. Download the project.
